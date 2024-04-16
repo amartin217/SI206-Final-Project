@@ -1,0 +1,5 @@
+
+Calculations: 
+Average median household income of birth counties of active NBA players in the 2023 season: 68169.67391304347
+Average salary of active NBA players in the 2023 season: 10525341.806451613
+Median salary of active NBA players in the 2023 season: 5634257
